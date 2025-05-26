@@ -15,6 +15,7 @@ Um bot simples para obter a previsão do tempo no Discord utilizando a API da Op
 git clone https://github.com/seu-usuario/bot_disc_weatherInfo.git
 cd bot_disc_weatherInfo
 npm install
+```
 Crie um arquivo .env com:
 
 ini
