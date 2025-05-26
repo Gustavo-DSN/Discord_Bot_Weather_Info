@@ -12,7 +12,7 @@ Um bot para Discord que retorna informações meteorológicas com base no nome d
 ## 🛠️ Funcionalidades
 
 -   Retorna o clima atual de qualquer cidade informada.
--   Int egração com aAPI do OpenWeatherMap.
+-   Integração com aAPI do OpenWeatherMap.
 -   Resposta diretamente no Discord usando comandos.
 
 ## 📦 Instalação
