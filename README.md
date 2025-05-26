@@ -12,7 +12,7 @@ Um bot para Discord que retorna informações meteorológicas com base no nome d
 ## 🛠️ Funcionalidades
 
 -   Retorna o clima atual de qualquer cidade informada.
--   Integração com a API do OpenWeatherMap.
+-   Int egração com aAPI do OpenWeatherMap.
 -   Resposta diretamente no Discord usando comandos.
 
 ## 📦 Instalação
@@ -20,8 +20,8 @@ Um bot para Discord que retorna informações meteorológicas com base no nome d
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/weather-discord-bot.git
-    cd weather-discord-bot
+    git clone https://github.com/Gustavo-DSN/Discord_Bot_Weather_Info.git
+    cd Discord_Bot_Weather_Info
     ```
 
 2. Instale as dependências:
